@@ -29,9 +29,5 @@
 - Target the adult age group (30-49 years)
 - Advertise on Amazon, Flipkart, and Myntara
 
-**ACHIEVEMENT:**
+![Screenshot 2023-11-09 131418](https://github.com/ManikantaBN/Vrinda-Store-Analysis-Using-MS-Excel/assets/141845485/5627b7d1-9622-49b4-95ef-90f9791a8d1e)
 
-- Assisted @Rishabh Mishra in creating an insightful Excel dashboard
-- Contributed to his Excel DASHBOARD masterclass
-- Excited about future collaborations! 
-- #exceldashboard #DataAnalytics #2023goals #excel #businessanalyst #misexecutive #bideveloper #achievementunlocked
