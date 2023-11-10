@@ -1,5 +1,6 @@
 # Vrinda-Store-Analysis-Using-MS-Excel
 𝐓𝐨 𝐩𝐫𝐞𝐩𝐚𝐫𝐞 𝐟𝐨𝐫 𝟐𝟎𝟐𝟒, 𝐭𝐡𝐞 𝐕𝐫𝐢𝐧𝐝𝐚 𝐒𝐭𝐨𝐫𝐞 𝐧𝐞𝐞𝐝 𝐭𝐨 𝐚𝐧𝐚𝐥𝐲𝐳𝐞 𝐢𝐭𝐬 𝐬𝐚𝐥𝐞𝐬 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐢𝐧 𝟐𝟎𝟐𝟑. 𝐓𝐡𝐢𝐬 𝐰𝐢𝐥𝐥 𝐡𝐞𝐥𝐩 𝐭𝐡𝐞 𝐬𝐭𝐨𝐫𝐞 𝐨𝐰𝐧𝐞𝐫 𝐭𝐨 𝐢𝐝𝐞𝐧𝐭𝐢𝐟𝐲 𝐭𝐡𝐞 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐩𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 𝐭𝐨 𝐩𝐥an 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 in the 𝐧𝐞𝐱𝐭 𝐲𝐞𝐚𝐫.
+
 **PROJECT OBJECTIVE:**
 
 - Prepare for 2024 sales analysis for Virinda Store
